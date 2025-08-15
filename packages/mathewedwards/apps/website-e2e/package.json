@@ -1,0 +1,10 @@
+{
+  "name": "mathew-edwards-apps-website-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "mathew-edwards-apps-website"
+    ]
+  }
+}
